@@ -1,0 +1,11 @@
+<module>
+	<rawname>extaudio</rawname>
+	<name>External Audio</name>
+	<version>1.0</version>
+	<type>setup</type>
+	<category>Basic</category>
+	<description>Configure external audio connections for radio feeds and public address system</description>
+	<menuitems>
+		<extaudio>External Audio</extaudio>
+	</menuitems>
+</module>
